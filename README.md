@@ -55,21 +55,20 @@ oops-larry-williams/
 ├── paper/
 │   └── Oops_Pattern_Quantitative_Study.pdf
 │
-├── src/ (fare io qui)
-│   ├── oops_signal.py
-│   ├── mae_mfe_analysis.py
-│   ├── exit_analysis.py
-│   └── utils.py
-│
-├── notebooks/
-│   └── oops_research.ipynb
-│
-└── requirements.txt
-
+├── src/
+|   ├── Test_entry.py
+|   ├── Test_entry_conservative.py
+|   ├── remige_analysis_macro.py
+|   ├── remige_analysis_micro.py
+|   ├── Test_exit_edge_discovery.py
+|   ├── Test_exit_exit_types.py
+|   ├── Test_exit_exit_types_II.py
+|   ├── Test_stop.py
+|   ├── Test_system.py
+  
 
 - `paper/` contains the full research paper describing methodology and results
 - `src/` contains reusable Python modules used in the analysis
-?? - `notebooks/` contains exploratory research notebooks
 
 ---
 
